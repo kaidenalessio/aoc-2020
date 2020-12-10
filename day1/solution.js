@@ -18,7 +18,6 @@ const productOfThreeEntriesThatSum2020 = (array) => {
 			}
 		}
 	}
-	return [];
 };
 
 // --- PART 1 ---
